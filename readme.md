@@ -242,14 +242,6 @@ terraform destroy
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Badhrinarayanan-J&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 # 🏁 Badges
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge\&logo=terraform)

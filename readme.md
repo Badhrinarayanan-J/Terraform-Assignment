@@ -250,14 +250,6 @@ terraform destroy
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badhrinarayanan-J&theme=tokyo-night" />
-</p>
-
----
-
 # 🏁 Badges
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge\&logo=terraform)
